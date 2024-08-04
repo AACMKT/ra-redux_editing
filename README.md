@@ -1,6 +1,6 @@
 # React Redux (global context editing)
 
-[![AACMKT ra-progects](https://github.com/AACMKT/ra-redux_editing/workflows/web.yml/badge.svg)](https://github.com/AACMKT/ra-redux_editing/actions/workflows/web.yml)
+[![AACMKT ra-progects](https://github.com/AACMKT/ra-redux_editing/actions/workflows/web.yml/badge.svg)](https://github.com/AACMKT/ra-redux_editing/actions/workflows/web.yml)
 
 [Ссылка на публикацию приложения на GitHub Pages](https://aacmkt.github.io/ra-redux_editing)
 
