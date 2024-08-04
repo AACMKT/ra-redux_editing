@@ -34,7 +34,7 @@ export const Interface = () => {
         if (price.length === 0) {
             return ''
         }
-        if (!(/[0-9]+/.test(price))) {
+        if (!(/[0-9]+$/.test(price))) {
             return ''
         }
 
